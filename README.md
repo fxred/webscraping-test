@@ -1,0 +1,1 @@
+Experimental in-progress repository for obtaining hardware prices from brazilian retailers via webscraping.
